@@ -8,7 +8,7 @@ Whole brain cellular resolution functional network properties of seizure suscept
 DOI: https://doi.org/10.64898/2026.04.04.715761
 
 ### Repository Contents
-This repository contains the prepacked data along with the analysis and visualization code used to produce the 7 figures in the main paper.
+This repository contains the prepacked data along with the analysis and visualization code used to produce the 7 figures in the main paper (https://doi.org/10.26188/32061549).
 
 Note: Due to the large size of the original data and the extensive processing time required to prepare it, the raw data and original processing code are not hosted here. The original calcium imaging data supporting the findings of this study are stored on Melbourne Mediaflux, and a sharing link is hosted on Melbourne Figshare 10.26188/32060955. Processed datasets are also publicly available via Melbourne Figshare 10.26188/32060970. All simulated data are accessible via Figshare 10.26188/32061360. The stored imaging data are password-protected; however, the password can be provided upon reasonable request by contacting the authors.
 
