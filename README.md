@@ -18,7 +18,7 @@ The preprocessing pipeline is available here: [Scott Lab HPC Pipeline](https://g
 
 * **Operating Systems:** Windows 10, macOS Monterey 12.0, or Ubuntu 20.04 LTS.
 * **Software Dependencies:** ROI Extraction & Registration: Custom Python scripts utilizing Suite2p (for source localization and motion correction) and Advanced Normalization Tools (ANTs) (for 3D template warping). [Scott Lab HPC Pipeline](https://github.com/Scott%2DLab%2DQBI/hpc%2Dpipeline)
-* Signal Normalization: MATLAB (version R2023b) was used for ${\Delta}F/F$ normalization and subsequent statistical analysis. R (version 4.41) was also used to produce plots and perform statistical analysis.
+Signal Normalization: MATLAB (version R2023b) was used for ${\Delta}F/F$ normalization and subsequent statistical analysis. R (version 4.41) was also used to produce plots and perform statistical analysis.
 * **Tested Versions:** The software has been tested on Windows 11.
 * **Hardware:** A standard desktop computer is sufficient but the required processing time varies. No non standard hardware is required.
 
