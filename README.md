@@ -7,7 +7,7 @@ This project examines genotype-specific network changes in zebrafish with *scn1l
 **DOI:** [https://doi.org/10.64898/2026.04.04.715761](https://doi.org/10.64898/2026.04.04.715761)
 
 ## Repository Contents & Data Availability
-This repository contains the prepacked data along with the analysis and visualization code used to produce the 7 figures in the main paper ([10.26188/32061549](https://doi.org/10.26188/32061549)). A complete description and pseudocode of the core algorithmic steps can be found in the Methods section of the main manuscript.
+This repository contains the prepacked data along with the analysis and visualization code used to produce the 7 figures in the main paper ([10.26188/32061549](https://doi.org/10.26188/32061549)). A complete description and pseudocode of the core algorithmic steps can be found in the Methods and Supplementary sections of the main manuscript.
 
 **Note:** Due to the large size of the original data and the extensive processing time required to prepare it, the raw data and original processing code are not hosted here. 
 * The original calcium imaging data supporting the findings of this study are stored on Melbourne Mediaflux, and a sharing link is hosted on Melbourne Figshare (10.26188/32060955). The stored imaging data are password-protected; however, the password can be provided upon reasonable request by contacting the authors.
